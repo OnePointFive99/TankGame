@@ -8,7 +8,7 @@ Win11配置环境变量：https://blog.csdn.net/qq_46209262/article/details/1235
 
 清华源连接失败：https://blog.csdn.net/kxqt233/article/details/121167753  改成http
 
-### 进入vscode终端
+### 进入vscode cmd
 ```python
 conda create -n tank python=3.8.5
 ```
