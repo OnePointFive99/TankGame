@@ -15,12 +15,11 @@ conda create -n tank python=3.8.5
 
 将文件解压后用vscode打开根目录
 
+```python
 conda activate tank
-
 pip install pygame
-
-cd 到RL_TankGame/Code
-
+cd RL_TankGame/Code
 python main.py
+```
 
 注意输入法改成英文
