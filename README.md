@@ -18,7 +18,7 @@ conda create -n tank python=3.8.5
 ```python
 conda activate tank
 pip install pygame
-cd RL_TankGame/Code
+cd TankGame/Code
 python main.py
 ```
 
